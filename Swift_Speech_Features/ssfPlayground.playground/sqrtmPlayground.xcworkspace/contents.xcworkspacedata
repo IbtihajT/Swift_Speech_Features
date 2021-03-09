@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:">
+   </FileRef>
+   <Group
+      location = "group:YCMatrix"
+      name = "YCMatrix">
+      <FileRef
+         location = "group:Matrix+Map.m">
+      </FileRef>
+      <Group
+         location = "group:en.lproj"
+         name = "en.lproj">
+         <FileRef
+            location = "group:InfoPlist.strings">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Matrix+Manipulate.m">
+      </FileRef>
+      <FileRef
+         location = "group:YCMatrix.h">
+      </FileRef>
+      <FileRef
+         location = "group:NSArray+Matrix.m">
+      </FileRef>
+      <FileRef
+         location = "group:Matrix.h">
+      </FileRef>
+      <FileRef
+         location = "group:Matrix+Advanced.m">
+      </FileRef>
+      <FileRef
+         location = "group:HaltonInterface.h">
+      </FileRef>
+      <FileRef
+         location = "group:Constants.h">
+      </FileRef>
+      <FileRef
+         location = "group:Matrix+Map.h">
+      </FileRef>
+      <FileRef
+         location = "group:halton_sampler.h">
+      </FileRef>
+      <FileRef
+         location = "group:Matrix+Manipulate.h">
+      </FileRef>
+      <FileRef
+         location = "group:YCMatrix-Info.plist">
+      </FileRef>
+      <FileRef
+         location = "group:NSArray+Matrix.h">
+      </FileRef>
+      <FileRef
+         location = "group:soboldata.h">
+      </FileRef>
+      <FileRef
+         location = "group:Matrix+Advanced.h">
+      </FileRef>
+      <FileRef
+         location = "group:Matrix.m">
+      </FileRef>
+      <FileRef
+         location = "group:HaltonInterface.mm">
+      </FileRef>
+   </Group>
+</Workspace>
